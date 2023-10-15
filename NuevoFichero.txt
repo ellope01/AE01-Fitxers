@@ -1,0 +1,4 @@
+Fichero de ejemplo
+ejemplo
+Ejemplo T1
+txt para probar si el error de grandaria solo da dentro de la carpeta prueba
